@@ -1,4 +1,7 @@
-# api documentation for  [react-webpack (v0.4.1)](https://github.com/ThomasDeutsch/react-webpack)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-webpack)
+# npmdoc-react-webpack
+
+#### api documentation for  [react-webpack (v0.4.1)](https://github.com/ThomasDeutsch/react-webpack)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-webpack)
+
 #### React + Webpack Starter Template
 
 [![NPM](https://nodei.co/npm/react-webpack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-webpack)
