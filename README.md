@@ -1,6 +1,6 @@
 # npmdoc-react-webpack
 
-#### api documentation for  [react-webpack (v0.4.1)](https://github.com/ThomasDeutsch/react-webpack)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-webpack)
+#### basic api documentation for  [react-webpack (v0.4.1)](https://github.com/ThomasDeutsch/react-webpack)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-webpack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-webpack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-webpack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-webpack)
 
 #### React + Webpack Starter Template
 
@@ -72,7 +72,8 @@
         "devserver": "webpack-dev-server --config server.config.js --content-base ./devserver_files --port 9500 --colors",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.4.1"
+    "version": "0.4.1",
+    "bin": {}
 }
 ```
 
